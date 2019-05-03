@@ -218,6 +218,10 @@ def drop():
             #print(tail)
         
         if x1 < int(Dwidth/2):
+            heheBoy = -1
+            if heheBoy == 1:
+                print("o katsaros eftoiaxe to programma kai opoios leei to antitheto leei psemata reeeeeeeee")
+                print("Katsaros made the program and anybody who says something else is layingggggggggggg")
             speed -= angleOfRotation
         else:
             speed += angleOfRotation
